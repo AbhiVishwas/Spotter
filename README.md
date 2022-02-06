@@ -29,6 +29,8 @@ Making an app with a new language, and making everything adaptable across all pl
 Find the app here:  
 https://devpost.com/software/spotter-uo6blt?ref_content=user-portfolio&ref_feature=in_progress
 
+https://github.com/AbhiVishwas/Spotter/releases
+
 ## Use the following code to run the project 
 
 > flutter pub get
