@@ -17,11 +17,6 @@ Then, Spotter allows you to seamlessly integrate your day in your dashboard, ful
 
 Soon, Spotter will be able to integrate multiple sources, allowing for global communication with businesses, schools, and students. Making more effective dashboard tools, along with refining how spots are found, are all ways that Spotter sees immediate growth. For the long-term, this project will look to create a self-sustaining student environment, dictated and created by the Scholar
 
-## Use the following code to run the project 
-
-> flutter pub get
-> flutter packages pub run build_runner build --delete-conflicting-outputs
-
 ## How we built it
 
 HTML, CSS, JS, Dart, Firebase, Maps API. 
@@ -33,3 +28,8 @@ Making an app with a new language, and making everything adaptable across all pl
 
 Find the app here:  
 https://devpost.com/software/spotter-uo6blt?ref_content=user-portfolio&ref_feature=in_progress
+
+## Use the following code to run the project 
+
+> flutter pub get
+> flutter packages pub run build_runner build --delete-conflicting-outputs
