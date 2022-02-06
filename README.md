@@ -31,5 +31,5 @@ ClickUp was used to manage the project!
 
 Making an app with a new language, and making everything adaptable across all platforms. Next bottleneck was the API's! Lots of learning moments here trying to integrate it all
 
-Find the app here 
+Find the app here:  
 https://devpost.com/software/spotter-uo6blt?ref_content=user-portfolio&ref_feature=in_progress
